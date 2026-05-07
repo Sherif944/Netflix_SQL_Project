@@ -1,5 +1,8 @@
 # 🎬 Netflix Movies and TV Shows Data Analysis
 
+<img width="940" height="529" alt="BrandAssets_Logos_01-Wordmark" src="https://github.com/user-attachments/assets/091761ba-d6e2-4a15-8324-9af02befb09e" />
+
+
 Welcome to my Netflix Data Analysis project! In this project, I performed a comprehensive analysis of the Netflix dataset to uncover trends, analyze content distribution, and solve 15+ specific business questions using **Advanced SQL (T-SQL)**.
 
 ---
@@ -15,10 +18,6 @@ The objective of this project was to explore the Netflix dataset and extract mea
 * **Advanced Aggregations:** Using Window Functions and CTEs for ranking and filtering.
 
 ---
-
-## 🛠️ Technical Implementation
-<img width="940" height="529" alt="BrandAssets_Logos_01-Wordmark" src="https://github.com/user-attachments/assets/091761ba-d6e2-4a15-8324-9af02befb09e" />
-
 
 ### Key SQL Techniques Used:
 1. **String Manipulation:** Using `STRING_SPLIT`, `TRIM`, `REPLACE`, and `LEFT` to clean and normalize data.
