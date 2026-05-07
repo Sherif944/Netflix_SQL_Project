@@ -98,4 +98,6 @@ Hi! I'm Sherif Mohammed, a professional pharmacist and data enthusiast. I specia
 
 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/sherif-mohammed-8a0aa3162/))
+<a href="https://www.linkedin.com/in/sherif-mohammed-8a0aa3162/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+</a>
